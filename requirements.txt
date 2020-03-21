@@ -1,7 +1,6 @@
 backcall==0.1.0
 cycler==0.10.0
 decorator==4.4.2
--e git+https://github.com/ca-scribner/general_utils@7ca2cab5efa9f8addcee4dcf1b94279915b7b168#egg=general_utils
 ipykernel==5.1.4
 ipython==7.13.0
 ipython-genutils==0.2.0
